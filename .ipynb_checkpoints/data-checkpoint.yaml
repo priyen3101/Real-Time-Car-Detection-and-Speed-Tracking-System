@@ -1,0 +1,11 @@
+train: Traffic Dataset/images/train
+val: Traffic Dataset/images/val
+nc: 7
+names:
+    0: Car
+    1: Number Plate
+    2: Blur Number Plate
+    3: Two Wheeler
+    4: Auto
+    5: Bus
+    6: Truck
